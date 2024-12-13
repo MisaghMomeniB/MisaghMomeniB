@@ -4,6 +4,26 @@ Hi there! I'm **Misagh Momeni**, a passionate **Programmer** and problem-solver 
 
 I specialize in creating robust, scalable, and creative projects, and I frequently share my work as **open-source contributions** for the community. My goal is to inspire others through my work and help solve real-world problems with technology. If you enjoy what you see, don’t forget to **star** my repositories—your support means the world! ❤️
 
+[![](https://visitcount.itsvg.in/api?id=MisaghMomeniB&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MisaghMomeniB&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MisaghMomeniB&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MisaghMomeniB&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MisaghMomeniB&theme=rose&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MisaghMomeniB&limit=5&theme=rose&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 
 ## 🖥️ Programming Languages & Skills
