@@ -1,8 +1,8 @@
 ### Hi There 🔥
-I'm **Misagh**, and I'm Really Glad You're Here! (by the Way, if You Haven’t Starred My **Repositories** Yet, Now’s the Time to Do It! 😉)
-If You're Looking for **Open-source** Projects to Contribute to or Need Source Codes for Practice or Code Review, You're in the Right Place! You Can Collaborate on My Projects, and if You Have Any Cool Ideas, Feel Free to Reach Out and Share Them With Me.
-I Work With **Various Programming Languages**, and My Projects Are Going to Be Super Diverse.
-Thanks for Taking the Time to Read This—i Really Appreciate It! 😊
+I'm **Misagh**, and I'm Really Glad You're Here! (by the Way, if You Haven’t Starred My **Repositories** Yet, Now’s the Time to Do It! 😉)<br>
+If You're Looking for **Open-source** Projects to Contribute to or Need Source Codes for Practice or Code Review, You're in the Right Place! You Can Collaborate on My Projects, and if You Have Any Cool Ideas, Feel Free to Reach Out and Share Them With Me.<br>
+I Work With **Various Programming Languages**, and My Projects Are Going to Be Super Diverse.<br>
+Thanks for Taking the Time to Read This—i Really Appreciate It! 😊<br>
 
 ### 📌 Projects I've Built, Organized by Programming Language
 ### Python
