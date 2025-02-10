@@ -22,7 +22,7 @@ Thanks for Taking the Time to Read This—i Really Appreciate It! 😊<br>
 - 🌟 NBA Games Analysis ([NBA Games Analysis](https://github.com/MisaghMomeniB/NBA-Games-Analysis), **Python**)
 
 ### Front-End
-- 🌟 Front-End Projects ([Data Analysis Projects](https://github.com/MisaghMomeniB/Front-End-Projects), **Front-End**)
+- 🌟 Front-End Projects ([Front-End Projects](https://github.com/MisaghMomeniB/Front-End-Projects), **Front-End**)
 
 ### Golang
 - 🌟 Blog Service Go ([Blog Service Go](https://github.com/MisaghMomeniB/Blog-Service-Go), **Go**)
