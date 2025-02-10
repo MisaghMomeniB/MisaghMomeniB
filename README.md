@@ -33,3 +33,10 @@ Thanks for Taking the Time to Read This—i Really Appreciate It! 😊<br>
 ### C++
 - 🌟 Phone Book C++ ([Phone Book](https://github.com/MisaghMomeniB/PhoneBook-Cpp), **C++**)
 - 🌟 Number Guessing Game C++ ([Number Guessing Game](https://github.com/MisaghMomeniB/Number-Guessing-Game-Cpp), **C++**)
+
+### 📌 Projects in Which I Was/am Involved
+- 🌟 ([Maux RAG API](https://github.com/MisaghMomeniB/Maux-RAG-API), **Python**)
+- 🌟 ([WidgetiFy Landing](https://github.com/MisaghMomeniB/WidgetiFy-Landing), **Front-End**)
+- 🌟 ([WidgetiFy PWA](https://github.com/MisaghMomeniB/WidgetiFy-PWA), **Front-End**)
+- 🌟 ([Jump PNG](https://github.com/MisaghMomeniB/JumpPNG), **Python**)
+- 🌟 ([PyATS VLAN Verification](https://github.com/MisaghMomeniB/PyATS-VLAN-Verification), **Python**)
