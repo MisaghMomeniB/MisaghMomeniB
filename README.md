@@ -21,6 +21,9 @@ Thanks for Taking the Time to Read This—i Really Appreciate It! 😊<br>
 - 🌟 Stock Momentum Analysis ([Stock Momentum Analysis](https://github.com/MisaghMomeniB/Stock-Momentum-Analysis), **Python**)
 - 🌟 NBA Games Analysis ([NBA Games Analysis](https://github.com/MisaghMomeniB/NBA-Games-Analysis), **Python**)
 
+### Front-End
+- 🌟 Front-End Projects ([Data Analysis Projects](https://github.com/MisaghMomeniB/Front-End-Projects), **Front-End**)
+
 ### Golang
 - 🌟 Blog Service Go ([Blog Service Go](https://github.com/MisaghMomeniB/Blog-Service-Go), **Go**)
 - 🌟 System Monitor Go ([System Monitor Go](https://github.com/MisaghMomeniB/System-Monitor-Go), **Go**)
