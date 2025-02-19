@@ -8,7 +8,7 @@ Thanks for Taking the Time to Read This—i Really Appreciate It! 😊<br>
 ### Python
 - 🌟 Data Analysis Projects ([Data Analysis Projects](https://github.com/MisaghMomeniB/Data-Analysis-Projects), **Python, Jupyter NoteBook**)
 - 🌟 Tehran Weather Analysis ([Tehran Weather Analysis](https://github.com/MisaghMomeniB/Tehran-Weather-Analysis), **Python**)
-- 🌟 Social Engagement Analysis [Social Engagement Analysis](https://github.com/MisaghMomeniB/Social-Engagement-Analysis)
+- 🌟 Social Engagement Analysis ([Social Engagement Analysis](https://github.com/MisaghMomeniB/Social-Engagement-Analysis), **Python**)
 - 🌟 Task Tracker CLI Python ([Task Tracker CLI](https://github.com/MisaghMomeniB/Task-Tracker-CLI-Python), **Python**)
 - 🌟 NoteBook Python ([NoteBook Python](https://github.com/MisaghMomeniB/Notebook-Python), **Python**)
 - 🌟 Calculator Python ([Calculator Python](https://github.com/MisaghMomeniB/Calculator-Python), **Python**)
