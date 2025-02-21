@@ -34,6 +34,7 @@ Thanks for Taking the Time to Read This—i Really Appreciate It! 😊<br>
 ### C++
 - 🌟 Phone Book C++ ([Phone Book](https://github.com/MisaghMomeniB/PhoneBook-Cpp), **C++**)
 - 🌟 Number Guessing Game C++ ([Number Guessing Game](https://github.com/MisaghMomeniB/Number-Guessing-Game-Cpp), **C++**)
+- 🌟 File Manager C++ ([File Manager](https://github.com/MisaghMomeniB/File-Manager-Cpp), **C++**)
 
 ### 📌 Projects in Which I Was/am Involved
 - 🌟 ([Maux RAG API](https://github.com/MisaghMomeniB/Maux-RAG-API), **Python**)
