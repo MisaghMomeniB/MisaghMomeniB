@@ -1,70 +1,72 @@
-# 👋 Hi there, I'm Misagh Momeni Bashusqeh
-
-Welcome to My Github Profile, I Am Currently Working as a Backend Developer and I Am Trying to Gain Experience and Work Towards Becoming a Professional in This Field.
+<h1 align="center">Hi there 👋, I'm Misagh Momeni Bashusqeh</h1>
+<h3 align="center">Back-End Developer | Python & Laravel Enthusiast | Security-Minded Programmer</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 **Current Position**: Back-End Developer at [iBrandAgenct](https://ibrandagency.ir/)
+- 🔭 **Currently working at**: [iBrandAgency](https://ibrandagency.ir/)
 - 🌍 **Location**: Tehran, Iran
-- 💬 **Languages Spoken**: Turkmen (Native) Persian (Native), English (Professional)
-- 🧳 **Years of Experience**: Still Gaining Experience.
-- 🎯 **Career Goal**: Gain Experience and Become a Professional in the Role of Back-end Developer, Gain Experience in System Design and Server Security Issues.
+- 💬 **Languages**: Turkmen (Native), Persian (Native), English (Professional)
+- 🎯 **Goal**: To become a skilled backend engineer with expertise in API design, system architecture, and backend security.
 
 ---
 
-## ⚙️ Technical Skills
+## 🛠️ Tech Stack
 
-| Domain | Tools & Technologies |
-|--------|----------------------|
-| **Front-End** | HTML5, CSS3 (Tailwind), JavaScript |
-| **Back-End** | Python (Django - Flask - FastAPI) PHP (Laravel) | cURL |
-| **Data Eng** | Python (Numpy, Pandas, Matplotlib, Seaborn) |
-| **AI** | Python (Tensorflow - PyTorch - Numpy - Pandas - Scipy - SK-Learn - NLTK |
+### 🧰 Languages & Frameworks
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📦 Projects (Selected Highlights)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-- 🔌 **[Data-Analysis](https://github.com/MisaghMomeniB/Data-Analysis-Projects)**  
-  A Collection of Data Analysis and Machine Learning Projects Using Python and Related Libraries..
+### 🧱 Tools & Technologies
 
-- 🔐 **[Library Management SQL](https://github.com/MisaghMomeniB/Library-Management-SQL)**  
-  A Simple Project to Analyze and Examine the Type of Database Structure to Simplify Concepts.
-
----
-
-## 🎓 Certifications & Courses
-
-- 📄 *React - Maktabkhooneh*  
-- 🎓 *Python*
-  - Maktabkhooneh
-- 🧠 *SQL - Maktabkhooneh*  
-- 💡 *Git - MaktabKhooneh*  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 📈 Currently Learning
+## 🚀 Featured Projects
 
-- 🧪 PHP / Laravel / cURL 
-- 📦 Docker - Kubernetes
-- 🔄 Design Pattern, System Design, Full-Stack, Sec Cubery
+| Project | Description |
+|--------|-------------|
+| 🔍 [Data-Analysis-Projects](https://github.com/MisaghMomeniB/Data-Analysis-Projects) | Machine learning and data analysis portfolio using Python, NumPy, Pandas, and Matplotlib |
+| 📚 [Library Management SQL](https://github.com/MisaghMomeniB/Library-Management-SQL) | Structured SQL project modeling a simple library system for learning relational databases |
+| 🛒 [Django Ecommerce Backend](https://github.com/MisaghMomeniB/Django-Ecommerce-BackEnd) | REST API backend for an ecommerce platform with JWT auth, Stripe integration, and more |
 
 ---
 
-## 💬 Interests
+## 🎓 Certifications & Learning
 
-- ✅ CyberSecurity
-- ✅ Docker and Kubernetes
-- ✅ Back-End, System Design
-- ✅ Sys Admin
-- ✅ AI, ML
+- ✅ **React** – Maktabkhooneh  
+- ✅ **Python, SQL, Git** – Maktabkhooneh  
+- 📚 Currently Learning:
+  - Laravel + cURL
+  - Docker & Kubernetes
+  - Design Patterns, System Design
+  - Backend Security & Server Administration
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MisaghMomeniB&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisaghMomeniB&layout=compact&theme=radical" height="170" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🧑‍💻 **GitHub**: [Misagh Momeni Bashusqeh](https://github.com/MisaghMomeniB)
-- 💼 **LinkedIn**: [Misagh Momeni Bashusqeh](https://linkedin.com/in/<your-link>)
-- 📫 **Email**: <misaghmomeni@gmail.com>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/misaghmomenib)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:misaghmomeni@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MisaghMomeniB)
